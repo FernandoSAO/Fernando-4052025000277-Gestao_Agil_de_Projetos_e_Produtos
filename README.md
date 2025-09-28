@@ -13,13 +13,4 @@ O directório raiz é composto pelos arquivos do trabalho do MVP Gestão Ágil d
      - 06-Inserir-Fatura-Pagamento.pdf - wireframe da tela de inserir fatura de pagamento, com o formulário composto pelos campos: Número Fatura, CNPJ, Valor e Data de Pagamento
      - 07-Inserir-Fatura-Recebimento.pdf - wireframe da tela de inserir fatura de recebimento, com o formulário composto pelos campos: Número Fatura, Valor e Data de Pagamento
      - 08-VisãoGeral.pdf - arquivo com todas as telas anteriores
-  
-
-  
-A pasta artifacts é composta pelos links do miro e do vídeo do youtube da apresentação do projeto
-A pasta wireframe-FaturasInOut apresenta as imagens dos wireframes das telas do programa
-A pasta 
-
-Lean Inception
-
-MVP da Sprint Gestão Ágil de Projetos e Produtos
+  - arquivo backlog-FaturasInOut.pdf - com o print do sequencer do Miro Lean Inception preenchido, backlog do JIRA das tasks que compõem o MVP e o primeiro sprint, detalhamento das tasks do primeiro sprint e Timeline do MVP + incrementos
